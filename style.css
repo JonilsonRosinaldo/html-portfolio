@@ -14,5 +14,6 @@ html {
 .centered_div {
     width: 50%;
     margin-left: 25%;
+    margin-bottom: 10%;
     margin-top: 10%;
 }
