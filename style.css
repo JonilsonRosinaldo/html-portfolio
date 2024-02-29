@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: whitesmoke;
+}
+.div_image {
+    border: 5px solid white;
+    width: 100%;
+}
+.baskerville {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.centered_div {
+    width: 50%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
